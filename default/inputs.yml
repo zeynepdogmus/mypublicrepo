@@ -1,0 +1,10 @@
+inputs:
+  in3:
+    disabled: false
+    sendToRoutes: true
+    pqEnabled: false
+    streamtags: []
+    samples:
+      - eventsPerSec: 10
+        sample: big_json
+    type: datagen
